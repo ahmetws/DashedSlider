@@ -1,0 +1,6 @@
+framework module DashedSlider {
+  umbrella header "DashedSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}

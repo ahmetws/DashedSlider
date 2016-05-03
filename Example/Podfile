@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'DashedSlider_Example', :exclusive => true do
+  pod 'DashedSlider', :path => '../'
+end
+
+target 'DashedSlider_Tests', :exclusive => true do
+  pod 'DashedSlider', :path => '../'
+
+  
+end
